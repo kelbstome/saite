@@ -1,0 +1,57 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 50px;
+  background-color: blueviolet;
+  
+}
+.menu{
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0%;
+    border-radius: 45px;
+  
+}
+.logo{
+      background-image: url("../imagem/paisagem.2.jpg");
+      background-repeat: no-repeat;
+      background-position:50% ;
+
+}
+
+.navega{
+  text-align: center;
+  border-radius: 45px;
+  margin-top: 5px;
+  background-color: rgb(24, 24, 173);
+}
+.corpo2{
+    background-color: rgb(82, 80, 80);
+    text-align: center;
+
+}
+.texto2{
+ color:white;
+}
+.mini{
+  color: rgb(247, 247, 110);
+}
+.especificacao{
+  color: rgb(247, 247, 110) ;
+}
+.preco{
+  color:red;
+}
+.quarto{
+  color: white;
+}
+.corpo3{
+  text-align: center;
+  background-image: url("../imagem/paisagem.1.jpg");
+  background-position: 50%;
+}  
+.cafe{
+  font-style:italic;
+}
+  
+   
